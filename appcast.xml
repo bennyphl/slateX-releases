@@ -3,6 +3,22 @@
     <channel>
         <title>slateX</title>
         <item>
+            <title>0.13.2</title>
+            <pubDate>Sat, 08 Aug 2026 19:18:27 +0200</pubDate>
+            <link>https://github.com/bennyphl/slateX-releases</link>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.13.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/bennyphl/slateX-releases/main/slateX-0.13.2.md</sparkle:releaseNotesLink>
+            <enclosure url="https://raw.githubusercontent.com/bennyphl/slateX-releases/main/slateX-0.13.2.dmg" length="10864933" type="application/octet-stream" sparkle:edSignature="YIYMT/9pSJRMZQt1Xg/xSsv0yOTLd+P1mICbR5n+3G/dS3ioDddkygfx7WxlxOHyyhh7pQHVUOgXdyV4MNPSCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/bennyphl/slateX-releases/main/slateX13-12.delta" sparkle:deltaFrom="12" length="724654" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="IXBTsMnBTr1zVum4HZ8S3LgDpaSWDilObbcgf9eVQlsaJjzCjsZhnC75a6aMQ6lsIr+QR1LZ23QFw+IKMGDrBQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/bennyphl/slateX-releases/main/slateX13-9.delta" sparkle:deltaFrom="9" length="737370" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BXLJQZoNUK6THZn9JbfXAZ50V5AG4bCGBPXG0X9SRpVczUaCA5DKi/jpCukjK0cZT6wu7uGi9OJxWKOK0Nw0Dw=="/>
+                <enclosure url="https://raw.githubusercontent.com/bennyphl/slateX-releases/main/slateX13-7.delta" sparkle:deltaFrom="7" length="3515934" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kTn4e7rzoHOKbT0cDsrkutHWxtbkJSC/SZhkC4ZRQVf6gbeiPmHdRhXX3h77nsP1fEeN8yznx86RYxS1RvNnBw=="/>
+                <enclosure url="https://raw.githubusercontent.com/bennyphl/slateX-releases/main/slateX13-6.delta" sparkle:deltaFrom="6" length="3744558" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WV+C7viCQ5lzJjE9p62k5xP3W1JFaHtgU1L6SKsLAaOZVXU9dffgE5DriGLxtCvTSWLOhxfpefUKM1l1YduiDg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.13.1</title>
             <pubDate>Sat, 08 Aug 2026 18:35:44 +0200</pubDate>
             <link>https://github.com/bennyphl/slateX-releases</link>
@@ -30,20 +46,6 @@
                 <enclosure url="https://raw.githubusercontent.com/bennyphl/slateX-releases/main/slateX10-9.delta" sparkle:deltaFrom="9" length="24746" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="V9eu095rXf9eFWTbpGeCuwaHnLVLjWOHCToIvueSYTE6CQ8JwD0duMhrE0RgP1Ljop1IJIKkp8P1DbVhE1C6Bg=="/>
                 <enclosure url="https://raw.githubusercontent.com/bennyphl/slateX-releases/main/slateX10-7.delta" sparkle:deltaFrom="7" length="3512418" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gtl9ENi3/9yCFG/jEcQbJRXmZsyZ7WlnTgfMbPneSEHY3pgDz+X2s2Ulb9u0Y0onUXg7P5XM5rFePB22DAYoCA=="/>
                 <enclosure url="https://raw.githubusercontent.com/bennyphl/slateX-releases/main/slateX10-6.delta" sparkle:deltaFrom="6" length="3738826" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="h7HCdLz0UldyFEavscyEOf5xkERCANOP/GK9/e/ZI0eSx3lV9qGGV6pD93t6YRlsJ4iL6oCsSZ6DnvQlFsHMAw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.13.0</title>
-            <pubDate>Sat, 08 Aug 2026 18:10:49 +0200</pubDate>
-            <link>https://github.com/bennyphl/slateX-releases</link>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>0.13.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/bennyphl/slateX-releases/main/slateX-0.13.0.md</sparkle:releaseNotesLink>
-            <enclosure url="https://raw.githubusercontent.com/bennyphl/slateX-releases/main/slateX-0.13.0.dmg" length="10817472" type="application/octet-stream" sparkle:edSignature="Jk56yWQlCUX6WcE/JoafD2SzAuy1L/1q54ioHHQgWeAAQO7dspAxZiyAXZjs+ObAcWY01jOns3ALoMWo4K5TCw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/bennyphl/slateX-releases/main/slateX9-7.delta" sparkle:deltaFrom="7" length="3494950" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="N/uy2E0Sjjk7iw7X2BcZKZs0v8pKq9yZaTtQ8R70FVRH5cVMuj7arlOBZlG6v7ry8dW2nII3Zhos5BjcwHHHAQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/bennyphl/slateX-releases/main/slateX9-6.delta" sparkle:deltaFrom="6" length="3718442" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wXmxiL0RxnCHU2aSLVHwQQ3FfTcz53KNX6eG3XcMIvTk0oKUsRIApHlBRUrylvVPjFxR2Nzr0LiVLBZXhMyiBA=="/>
             </sparkle:deltas>
         </item>
     </channel>
